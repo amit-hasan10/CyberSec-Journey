@@ -1,0 +1,61 @@
+ Day 1 — Linux Basics (Kali Linux)
+
+📅 Date: October 8, 2025  
+🧑‍💻 Author: Md Amit Hasan Robi  
+🎯 Goal:To understand and practice basic Linux commands, file handling, and navigation as part of my cybersecurity foundation.
+
+---
+
+🔹 1. Basic Navigation Commands
+- `pwd` → shows current working directory  
+- `ls` → lists files and folders  
+- `cd foldername` → changes directory  
+- `cd ..` → moves one directory up  
+- `cd ~` → goes to the home directory  
+
+
+🔹 2. File and Folder Management
+- `mkdir cyberday1` → create folder  
+- `touch test1.txt test2.txt` → create empty files  
+- `echo "Hello Cybersecurity" > test1.txt` → write text in a file  
+- `cat test1.txt` → view/read file content  
+- `cp test1.txt copy.txt` → copy file  
+- `mv copy.txt renamed.txt` → rename/move file  
+- `rm test2.txt` → remove/delete file  
+
+---
+
+3. System Information Commands
+- `whoami` → displays current user  
+- `hostname` → shows computer name  
+- `uname -a` → shows OS and kernel details  
+- `id` → shows user and group info  
+
+---
+
+🔹 4. Folder Operations
+- `ls cyberday1` → view files in folder  
+- `rmdir foldername` → delete empty folder  
+- `rm -r foldername` → delete folder with files  
+- `mv oldname newname` → rename folder  
+
+
+🔹 5. Learning Summary
+. Learned to navigate the Linux filesystem  
+. Practiced file and folder operations  
+. Understood how to view system information  
+. Documented everything for portfolio  
+
+---
+
+
+Reflection:
+ Today I started my cybersecurity journey officially. 
+ I learned how powerful the Linux terminal is and how every command has purpose.  
+>Excited for Day 2 — Networking Basics & TryHackMe setup!
+
+---
+
+Next Step:
+➡️ Day 2: Networking Fundamentals (ping, traceroute, ifconfig, netstat)  
+➡️ Setup TryHackMe account for real labs.
